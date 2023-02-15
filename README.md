@@ -1,2 +1,2 @@
 # face-recognition
-Face recognition using OpenCV
+Face recognition using OpenCV in Python
